@@ -1935,6 +1935,7 @@ CMBloodMeridian
 - [luciade](https://github.com/luciade)
 - [Janpreet Chandhok](https://github.com/chandhok97)
 - [Kyeza Arnold](https://github.com/Kyeza)
+- [Mohamud Sugal](https://github.com/mudu93)
 - [Alan Ross](https://github.com/alanwallaceross)
 - [Kevin Dunne](https://github.com/sdevkev)
 - [Theda K. Rogers](https://github.com/crayonwriter)
